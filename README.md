@@ -1,2 +1,2 @@
 # TeoGore.github.io
-My website
+TeoGore's website
